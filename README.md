@@ -12,3 +12,4 @@ This repository contains lab assignments for the Robotic Perception Lab, coverin
 5. [Filters: Mean, Median](https://github.com/kittyycodes/robotic-perception/blob/main/filter_mean.ipynb)
 6. [Filters: Sobel](https://github.com/kittyycodes/robotic-perception/blob/main/filter_sobel.ipynb)
 7. [Geometric Transformation](https://github.com/kittyycodes/robotic-perception/blob/main/geometric_transformation.ipynb)
+8. [Edge Segmentation](https://github.com/kittyycodes/robotic-perception/blob/main/edge_seg.ipynb)
